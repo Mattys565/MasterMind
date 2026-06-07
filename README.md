@@ -54,7 +54,3 @@ mastermind.py
 - Object-oriented programming with Python classes
 - Input validation and recursive error handling
 - Two-pass color comparison algorithm to handle duplicates correctly
-
-## 🔜 Next Project
-
-**Blackjack** — featuring multiple interacting classes: `Card`, `Deck`, and `Game`.
